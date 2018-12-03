@@ -1,0 +1,24 @@
+.react-live-dark pre.prism-code {
+  background: black !important;
+}
+
+.graphiql-container {
+  text-align: left !important;
+  height: 700px;
+}
+
+.spectacle-content {
+  max-height: 100% !important;
+}
+
+li {
+  list-style: none;
+  /* background: transparent url(/ING.png) no-repeat left center; */
+  background-size: 45px 45px;
+  padding-left: 60px;
+  margin: 40px 0;
+}
+
+img[alt="twitter"] {
+  width: 100%;
+}
